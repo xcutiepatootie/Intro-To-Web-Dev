@@ -29,7 +29,7 @@ This project provides an introduction to web development, covering fundamental c
 Follow these steps to set up your development environment:
 
 #### Download the Project Files
-   - Go to the [GitHub Repository](https://github.com/your-repository-url)
+   - Go to the [GitHub Repository](https://github.com/xcutiepatootie/Intro-To-Web-Dev)
    - Click on the **Code** button and select **Download ZIP**
    - Extract the ZIP file to your preferred directory
 
